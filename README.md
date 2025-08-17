@@ -30,8 +30,8 @@ It also includes **Realtime Notifications** using Reverb, so users get instant a
 1. Clone the project:
 
    ```bash
-   git clone https://github.com/your-username/realtime-chat-app.git
-   cd realtime-chat-app
+   git clone https://github.com/Abdo0-bit/realtime-chat-app-laravel
+   cd realtime-chat-app-laravel
    ```
 
 2. Install dependencies:
